@@ -34,7 +34,7 @@ export default function Home() {
                                 <Users className="h-6 w-6" />
                                 Join a Room
                             </CardTitle>
-                            <CardDescription>Enter a room code to view someone's screen</CardDescription>
+                            <CardDescription>Enter a room code to view someone&apos;s screen</CardDescription>
                         </CardHeader>
                         <CardContent>
                             <Link href="/join">
